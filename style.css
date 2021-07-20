@@ -9,7 +9,7 @@ body, html {
 }
 
 .bg-image {
-  background-image: url("img5.jpg");
+  background-image: url("https://source.unsplash.com/1600x900/?nature");
 
 /* Add the blur effect */
   filter: blur(8px);
